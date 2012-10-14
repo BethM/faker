@@ -144,11 +144,14 @@ module Faker
 end
 
 require 'faker/address'
+require 'faker/artist_name'
 require 'faker/company'
+require 'faker/genre'
 require 'faker/internet'
 require 'faker/lorem'
 require 'faker/name'
 require 'faker/phone_number'
+require 'faker/venue_name'
 require 'faker/version'
 
 require 'extensions/array'
