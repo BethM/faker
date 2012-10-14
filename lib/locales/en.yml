@@ -1,6 +1,5 @@
 en:
   faker:
-    artist_name: []
     venue_name:
       southern_first_name: [Abe, Abby, Abner, Anna, Austin, Avery, Barney, Bessie, Billy, Bobby,  Bonnie, Bubba, Buford, Casey, Charlie, Clyde, Danny, Davis, Dixie, Donna, Ernest, Freddy, Jimmy, Jimbo, Junior, Judson, Georgia, Grady, Harley, Harper, Hollis, Houston, Ida, Jackson, Memphis, Monroe, Ollie, Parker, Raleigh,  Randy, Ricky, Ruby, Rufus, Sallie, Sawyer, Scarlett, Shelby, Sissy, Slim, Sonny, Tallulah, Tanya, Taylor, Timmy, Tommy, Vernon, Wanda, Willie]
       southern_last_name: [B, Bo, D, Day, Dean, Ellis, J, Jean, Jo, G, Lane, Lee, Lou, P, Ray, Reece, T]
